@@ -1,0 +1,1 @@
+Sort the array in ascending order and find the maximum element

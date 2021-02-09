@@ -1,0 +1,1 @@
+Find the arithmetic mean of the array

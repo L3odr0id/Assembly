@@ -1,1 +1,1 @@
-Test
+Find the sum of the squares of the array elements. The length of the array is 200.
